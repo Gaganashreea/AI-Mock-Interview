@@ -1,4 +1,4 @@
-# 🚀 Interview Intelligence System
+# Interview Intelligence System
 
 ### Resume-Based, Role-Based, Voice-Driven AI Interview Platform
 
@@ -6,14 +6,14 @@ An AI-powered mock interview platform designed to simulate realistic technical i
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The Interview Intelligence System is designed to help candidates improve their interview performance through realistic AI-driven interview simulation.
 
 The platform bridges the gap between:
-> Knowing answers 📘  
+> Knowing answers   
 and  
-> Performing confidently in interviews 🎤
+> Performing confidently in interviews 
 
 The system provides:
 - Resume-based personalized interviews
@@ -25,14 +25,14 @@ The system provides:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 📄 Resume-Based Interview Setup
+### Resume-Based Interview Setup
 - Upload PDF resume
 - Extract skills, projects, and experience
 - Generate contextual interview questions
 
-### 🎯 Role-Based Interview Simulation
+### Role-Based Interview Simulation
 Supports multiple interview roles:
 - Frontend Developer
 - Backend Developer
@@ -40,17 +40,17 @@ Supports multiple interview roles:
 - Data Analyst
 - DevOps Engineer and more
 
-### 🎙️ Voice-Based AI Interaction
+###  Voice-Based AI Interaction
 - AI interviewer voice support
 - Speech-to-text transcription
 - Real-time verbal interaction
 
-### 💻 Live Coding Environment
+### Live Coding Environment
 - Integrated Monaco Editor
 - Coding question support
 - Code evaluation workflow
 
-### 🤖 AI-Powered Evaluation
+###  AI-Powered Evaluation
 The system evaluates:
 - Communication clarity
 - Technical accuracy
@@ -58,30 +58,37 @@ The system evaluates:
 - Problem-solving approach
 - Answer structure
 
-### 📊 Feedback & History Tracking
+### Feedback & History Tracking
 - Detailed AI-generated feedback
 - Performance analysis
 - Interview history dashboard
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
 User → Frontend → Backend → AI Services → Database
 ```
 
 ### Workflow
-Login/Register → Dashboard → Role Selection
-→ Difficulty Selection → Resume Upload
-→ Start Interview → AI Question Generation
-→ Voice Interview → Speech Processing
-→ Coding Evaluation → AI Feedback
-→ History Storage → Performance Tracking
+Login/Register  
+→ Dashboard  
+→ Role Selection  
+→ Difficulty Selection  
+→ Resume Upload  
+→ Start Interview  
+→ AI Question Generation  
+→ Voice Interview  
+→ Speech Processing  
+→ Coding Evaluation  
+→ AI Feedback  
+→ History Storage  
+→ Performance Tracking
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - React.js
@@ -126,14 +133,13 @@ AI-MOCK-INTERVIEW/
 │
 ├── package-lock.json
 └── package.json
+```
 
-
-
-
+---
 
 ## 👩‍💻 Developed By
 
 ### Gaganashree A
 
-
 ---
+
