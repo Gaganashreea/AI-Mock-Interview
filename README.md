@@ -72,13 +72,12 @@ User → Frontend → Backend → AI Services → Database
 ```
 
 ### Workflow
-1. User uploads resume
-2. Resume is parsed
-3. AI generates interview questions
-4. Voice-based interview begins
-5. Responses are analyzed
-6. AI feedback is generated
-7. Interview history is stored
+Login/Register → Dashboard → Role Selection
+→ Difficulty Selection → Resume Upload
+→ Start Interview → AI Question Generation
+→ Voice Interview → Speech Processing
+→ Coding Evaluation → AI Feedback
+→ History Storage → Performance Tracking
 
 ---
 
@@ -111,14 +110,23 @@ User → Frontend → Backend → AI Services → Database
 ## 📂 Project Structure
 
 ```text
-AI-Mock-Interview/
+AI-MOCK-INTERVIEW/
 │
-├── client/        # Frontend Application
-├── server/        # Backend Application
-├── uploads/       # Resume Uploads
-├── README.md
+├── client/                          # Frontend application
+│   ├── src/                         # React source files
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
+│
+├── server/                          # Backend application
+│   ├── src/                         # Backend source files
+│   ├── .env
+│   ├── package.json
+│   └── server.js
+│
+├── package-lock.json
 └── package.json
-```
+
 
 
 
